@@ -1,0 +1,21 @@
+- Kubernetes are supported in any cloud platform 
+- supports hosting enhanced and complex apps on various architecture types
+
+
+- design and build cloud native applications for Kubernetes. 
+- 300 usd with one free retake 
+- online
+- rules in candidate hanbook
+- not MCQ 
+- performance based hands on skills (no memorization: know how the tech works)
+- tasks to complete in 2 hrs
+- can refere to the official docu
+
+
+-  Exam : https://www.cncf.io/training/certification/ckad/
+-  handbook: https://docs.linuxfoundation.org/tc-docs/certification/lf-handbook2
+- Exam tips: https://docs.linuxfoundation.org/tc-docs/certification/tips-cka-and-ckad
+
+
+
+
